@@ -49,6 +49,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![focustimer](https://user-images.githubusercontent.com/94652702/200235217-2141770e-ebd2-4420-8d18-649f63a50b24.png)
 
+## Você pode acessar o projeto online através do link abaixo:
+
+https://explorer-stage-05-2-focus-timer.vercel.app/
+
 
 ---
 
